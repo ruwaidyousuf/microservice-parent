@@ -1,0 +1,12 @@
+com/microservice/orderservice/repository/OrderRepository.class
+com/microservice/orderservice/dto/OrderRequest.class
+com/microservice/orderservice/service/OrderService.class
+com/microservice/orderservice/dto/OrderLineItemsDTO.class
+com/microservice/orderservice/model/OrderLineItems.class
+com/microservice/orderservice/controller/OrderController.class
+com/microservice/orderservice/model/OrderLineItems$OrderLineItemsBuilder.class
+com/microservice/orderservice/OrderServiceApplication.class
+com/microservice/orderservice/dto/OrderRequest$OrderRequestBuilder.class
+com/microservice/orderservice/model/Order$OrderBuilder.class
+com/microservice/orderservice/dto/OrderLineItemsDTO$OrderLineItemsDTOBuilder.class
+com/microservice/orderservice/model/Order.class
