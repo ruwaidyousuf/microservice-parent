@@ -1,0 +1,7 @@
+/Users/ruwaidbnuyousuf/Projects/microservices project/microservice-parent/product-service/src/main/java/com/microservice/productservice/ProductServiceApplication.java
+/Users/ruwaidbnuyousuf/Projects/microservices project/microservice-parent/product-service/src/main/java/com/microservice/productservice/service/ProductService.java
+/Users/ruwaidbnuyousuf/Projects/microservices project/microservice-parent/product-service/src/main/java/com/microservice/productservice/repository/ProductRepository.java
+/Users/ruwaidbnuyousuf/Projects/microservices project/microservice-parent/product-service/src/main/java/com/microservice/productservice/model/Product.java
+/Users/ruwaidbnuyousuf/Projects/microservices project/microservice-parent/product-service/src/main/java/com/microservice/productservice/dto/ProductResponse.java
+/Users/ruwaidbnuyousuf/Projects/microservices project/microservice-parent/product-service/src/main/java/com/microservice/productservice/dto/ProductRequest.java
+/Users/ruwaidbnuyousuf/Projects/microservices project/microservice-parent/product-service/src/main/java/com/microservice/productservice/controller/ProductController.java
